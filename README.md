@@ -1,6 +1,6 @@
 # Bokep-Tools
 Need VPN Connection
-# Mau Revode???
+# Mau Recode???
 # Ngewe Aja Pake Masih Pake Tangan Anjenk
 # Cara Pakai
 # $ pkg update && pkg upgrade
